@@ -1,2 +1,2 @@
-# gcso
-project number 20
+# GCSO
+GCSO
